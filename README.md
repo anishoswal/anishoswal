@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Anish
+## Hi there 👋 I'm Anish
 ---
-⚡ I’m looking for full-time opportunities starting May, 2021.
+#### ⚡ I’m looking for full-time opportunities starting May, 2021.
 ---
 📫 How to reach me:
 
