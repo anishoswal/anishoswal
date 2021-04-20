@@ -10,7 +10,6 @@ I am a determined visionary who believes in the power of programming that can tr
 
 I am a hardworking, passionate and well-rounded individual with a strong sense of loyalty towards institutions I've been associated with. My young curiosity drives me to apply my skills for the advancement of every company I work with and take up challenges that not just sharpen my skills but also allow me to constantly develop as a person.
 
-I'm looking for full-time opportunities starting May, 2021.
 ---
 📫 How to reach me:
 
