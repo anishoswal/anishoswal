@@ -16,13 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on developing my skills and looking for Full-time Opportunities starting May, 2021.
+- 🔭 I’m currently working as a Developer Support Engineer I at Amazon Web Services Inc.
 
-- 🌱 I’m currently learning Software Engineering and Data Science. 
+- 🌱 I’m currently transitioning to be a Software Development Engineer. 
 
 - 👯 I’m looking to collaborate on Projects, Articles and Research Papers. 
 
-- 💬 Talk to me about Python, Full-Time Opportunities and Open Source opportunities. 
+- 💬 Talk to me about Python, SDKs and Amazon. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/anishoswal?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
