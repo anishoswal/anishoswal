@@ -16,13 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working as a Developer Support Engineer I at Amazon Web Services Inc.
-
-- 🌱 I’m currently transitioning to be a Software Development Engineer. 
+- 🔭 I’m currently working as a Software Development Engineer I at Amazon Inc.
 
 - 👯 I’m looking to collaborate on Projects, Articles and Research Papers. 
 
-- 💬 Talk to me about Python, SDKs and Amazon. 
+- 💬 Talk to me about Python, SDKs and Alexa. 
 
 <h2> Skills </h2>
 <a href= https://github.com/anishoswal?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
