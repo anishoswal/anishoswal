@@ -1,5 +1,4 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://marketplace.canva.com/EAD7R7e3rZg/1/0/800w/canva-black-and-gray-abstract-linkedin-banner-9T_B0f66A4o.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! </h1>
